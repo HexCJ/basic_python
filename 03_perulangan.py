@@ -31,3 +31,8 @@ for angka in range(1, 11):
     if angka == 8:
         break
     print("Angka:", angka)
+
+
+buah = ["Apel", "Jeruk", "Mangga"]
+for item in buah:
+    print(item)
